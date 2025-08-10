@@ -8,6 +8,7 @@
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/46bd7272-6176-4e54-8826-00887db3d432" />
 Next > Next > ✅ I agree everything will be deleted including files, apps, and settings > Next > I don't have a product key > Windows 11 IoT Enterprise LTSC > Next > Accept
 
+
 > Windows 11 IoT Enterprise LTSC is the lightest.
 
 > Windows 11 IoT Enterprise LTSC เป็นตัวเบาที่สุด
@@ -28,6 +29,7 @@ exit
 
 Select disk <num> > Next
 
+
 > There may be Disk 0, 1, 2, 3, etc., because you have more than one Storage Device.
 
 > อาจจะมี Disk 0, 1, 2, 3 ฯลฯ เนื่องจากคุณมี Storge มากกว่าหนึ่งตัว
@@ -43,6 +45,7 @@ Thailand > Next > Yes > Add layout > Thai (Thailand) > Thai Kedmanee > Add layou
 
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/72b69298-deed-4082-911d-8dfa68dd3379" />
 Next > (? set password if you want) Next
+
 
 **OS Directory Law — กฎไดเรกทอรีระบบ**
 >  Only use: 0-9, A-Z, a-z, Underscore (_), Hyphen (-), dot (.)
