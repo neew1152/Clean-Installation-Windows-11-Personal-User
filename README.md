@@ -1,4 +1,4 @@
-# [EN-TH] Installation Windows 11 for Personal User
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c5bdb9b6-56a7-49ce-a51b-3cccedce6093" /># [EN-TH] Installation Windows 11 for Personal User
 
 [Windows 11 IoT Enterprise LTSC](https://drive.massgrave.dev/en-us_windows_11_iot_enterprise_ltsc_2024_x64_dvd_f6b14814.iso)
 
@@ -74,7 +74,7 @@ exit
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f7287405-4f27-4e7b-9fd0-44c0e84d3fa3" />
 
-> `Super Key` > Settings > Windows Update > Check for updates
+> `Super Key` > "Settings" > Windows Update > Check for updates
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5bd1394d-71d7-4e63-835e-7a3e1f94e1f8" />
 
@@ -84,12 +84,22 @@ exit
 
 ### Executable-space protection
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2a93383a-49e9-4228-b0b8-1d11bde346a6" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0ea6c943-0996-4980-b006-b50ed455a892" />
 
-> `Super Key` > Settings > System > About > Advanced system settings > Performance > Data Execution Prevention > Turn on DEP for all programs and services except those I select > OK
+> `Super Key + R` > "SystemPropertiesAdvanced" > OK > Performance > Data Execution Prevention > Turn on DEP for all programs and services except those I select > OK > OK > OK
+
+### Microsoft Defender Antivirus
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/09cc74d6-4cee-45c7-b608-1c68553249e3" />
+
+> `Super Key` > "Windows Security" > Open > App & browser control > Reputation-based protection settings > ✅
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d1b8ea4f-49b4-4569-9e84-405ce76437f5" />
+
+> Device security > Core isolation details > ✅
 
 ### User Access Control
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/887d5337-1646-496b-be32-abe0a27333bb" />
 
-> `Super Key` > Control Panel > Open > `Control Panel\User Accounts\User Accounts`  > Change User Account Control settings > Always notify > OK > Yes
+> `Super Key` > "Control Panel" > Open > "Control Panel\User Accounts\User Accounts" > Change User Account Control settings > Always notify > OK > Yes
