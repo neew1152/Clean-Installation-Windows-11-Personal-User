@@ -82,12 +82,6 @@ exit
 
 ## Enhanced Windows Security
 
-### Executable-space protection
-
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3b762322-aca2-4e26-8177-f8a4101fbf76" />
-
-> `Super Key + R` > "SystemPropertiesAdvanced" > OK > Performance > Data Execution Prevention > Turn on DEP for all programs and services except those I select > OK > OK > OK
-
 ### Microsoft Defender Antivirus
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/09cc74d6-4cee-45c7-b608-1c68553249e3" />
@@ -97,6 +91,12 @@ exit
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d1b8ea4f-49b4-4569-9e84-405ce76437f5" />
 
 > Device security > Core isolation details > ✅
+
+### Executable-space protection
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3b762322-aca2-4e26-8177-f8a4101fbf76" />
+
+> `Super Key + R` > "SystemPropertiesAdvanced" > OK > Performance > Data Execution Prevention > Turn on DEP for all programs and services except those I select > OK > OK > OK
 
 ### User Access Control
 
