@@ -17,7 +17,7 @@
 ### Disk partitioning — Clean Install
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/70418288-5998-4ed4-a628-831e235399e0" />
 
-> Shift + F10:
+> `Shift + F10`:
 
 ```cmd
 diskpart
@@ -34,7 +34,7 @@ exit
 
 ---
 
-## Windows Out of Box Experience — Thailand
+## Out Of Box Experience — Thailand
 
 **DO NOT CONNECT TO THE INTERNET, IF YOU DON’T WANT THE LONG WINDOWS UPDATE!!!**
 
@@ -56,7 +56,7 @@ exit
 
 > If you don’t want to send device information, uncheck everything: Next
 
-> ถ้าไม่ต้องการส่งข้อมูลให้กับไมโครซอฟท์ ติ้กออกให้หมด: Next > Accept
+> ถ้าไม่ต้องการส่งข้อมูลให้กับไมโครซอฟท์ ติ้กออกให้หมด : Next > Accept
 
 **Submitting data to Microsoft**
 - Pros: Microsoft can solve more user problems
@@ -65,3 +65,31 @@ exit
 **การส่งข้อมูลให้แก่ไมโครซอฟท์**
 - ข้อดี : ไมโครซอฟท์แก้ปัญหาของผู้ใช้ได้มากขึ้น
 - ข้อเสีย : อุปกรณ์ทำงานหนักขึ้น เพื่อเขียนรายงาน
+
+## Windows Update — Phase I
+
+**Connect the internet**
+
+**ต่ออินเตอร์เน็ต**
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f7287405-4f27-4e7b-9fd0-44c0e84d3fa3" />
+
+> `Super Key` > Settings > Windows Update > Check for updates
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5bd1394d-71d7-4e63-835e-7a3e1f94e1f8" />
+
+> Advanced options > Optional updates > ✅ > Download & install
+
+## Enhanced Windows Security
+
+### Executable-space protection
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2a93383a-49e9-4228-b0b8-1d11bde346a6" />
+
+> `Super Key` > Settings > System > About > Advanced system settings > Performance > Data Execution Prevention > Turn on DEP for all programs and services except those I select > OK
+
+### User Access Control
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/887d5337-1646-496b-be32-abe0a27333bb" />
+
+> `Super Key` > Control Panel > Open > `Control Panel\User Accounts\User Accounts`  > Change User Account Control settings > Always notify > OK > Yes
