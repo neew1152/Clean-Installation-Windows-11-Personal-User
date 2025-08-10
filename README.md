@@ -1,5 +1,4 @@
 # [EN-TH] Installation Windows 11 for Personal User
-
 [Windows 11 IoT Enterprise LTSC](https://drive.massgrave.dev/en-us_windows_11_iot_enterprise_ltsc_2024_x64_dvd_f6b14814.iso)
 
 ---
@@ -35,10 +34,8 @@ exit
 ---
 
 ## Out Of Box Experience — Thailand
-
-**DO NOT CONNECT TO THE INTERNET, IF YOU DON’T WANT THE LONG WINDOWS UPDATE!!!**
-
-**อย่าต่ออินเตอร์เน็ต ถ้าคุณไม่อยากอัปเดตนาน !**
+- **DO NOT CONNECT TO THE INTERNET, IF YOU DON’T WANT THE LONG WINDOWS UPDATE!!!**
+- **อย่าต่ออินเตอร์เน็ต ถ้าคุณไม่อยากอัปเดตนาน !**
 
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/e02c6dd8-a36f-4d45-b963-ea2eefbec425" />
 
