@@ -84,7 +84,7 @@ exit
 
 ### Executable-space protection
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0ea6c943-0996-4980-b006-b50ed455a892" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3b762322-aca2-4e26-8177-f8a4101fbf76" />
 
 > `Super Key + R` > "SystemPropertiesAdvanced" > OK > Performance > Data Execution Prevention > Turn on DEP for all programs and services except those I select > OK > OK > OK
 
