@@ -68,9 +68,8 @@ exit
 
 ## Windows Update — Phase I
 
-**Connect the internet**
-
-**ต่ออินเตอร์เน็ต**
+- **Connect the internet**
+- **ต่ออินเตอร์เน็ต**
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f7287405-4f27-4e7b-9fd0-44c0e84d3fa3" />
 
