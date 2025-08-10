@@ -9,7 +9,6 @@
 Next > Next > ✅ I agree everything will be deleted including files, apps, and settings > Next > I don't have a product key > Windows 11 IoT Enterprise LTSC > Next > Accept
 
 *Windows 11 IoT Enterprise LTSC is the lightest.*
-
 *Windows 11 IoT Enterprise LTSC เป็นตัวเบาที่สุด*
 
 ### Disk partitioning — Clean Install
@@ -17,5 +16,4 @@ Next > Next > ✅ I agree everything will be deleted including files, apps, and 
 Shift + F10 > diskpart > list disk > select disk <num> > clean > exit > exit > Next
 
 *There may be Disk 0, 1, 2, 3, etc. Because you have more than one Storge.*
-
 *อาจจะมี Disk 0, 1, 2, 3 ฯลฯ เนื่องจากคุณมี Storge มากกว่าหนึ่งตัว*
