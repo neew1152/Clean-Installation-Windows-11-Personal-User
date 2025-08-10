@@ -101,7 +101,7 @@ exit
 
 > Device security > Core isolation details > ✅
 
-### Executable-space protection
+### Data Execution Prevention
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3b762322-aca2-4e26-8177-f8a4101fbf76" />
 
 > `Super Key + R` > "SystemPropertiesAdvanced" > OK > Performance > Data Execution Prevention > Turn on DEP for all programs and services except those I select > OK > OK > OK
@@ -110,3 +110,22 @@ exit
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/887d5337-1646-496b-be32-abe0a27333bb" />
 
 > `Super Key` > "Control Panel" > Open > "Control Panel\User Accounts\User Accounts" > Change User Account Control settings > Always notify > OK > Yes
+
+## Microsoft Store && Microsoft Office
+### Microsoft Store
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/35e51f52-1c63-4aee-ad4c-570d2ee86c0b" />
+
+`Super Key` > "Command Prompt" > Run as administrator > Yes
+
+```cmd
+wsreset -i
+exit
+```
+
+### Microsoft Office
+[Office C2R Installers](https://gravesoft.dev/office_c2r_links)
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/abdc6ebf-e45b-4db7-a342-7f9cbc530332" />
+
+Select <Office.img> > Mount > Open > Setup.exe > Open > Run > Run > Run > Yes
