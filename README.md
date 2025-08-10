@@ -10,7 +10,6 @@ Next > Next > ✅ I agree everything will be deleted including files, apps, and 
 
 
 > Windows 11 IoT Enterprise LTSC is the lightest.
-
 > Windows 11 IoT Enterprise LTSC เป็นตัวเบาที่สุด
 
 ### Disk partitioning — Clean Install
