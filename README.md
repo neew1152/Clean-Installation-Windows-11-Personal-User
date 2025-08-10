@@ -1,4 +1,4 @@
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c5bdb9b6-56a7-49ce-a51b-3cccedce6093" /># [EN-TH] Installation Windows 11 for Personal User
+# [EN-TH] Installation Windows 11 for Personal User
 
 [Windows 11 IoT Enterprise LTSC](https://drive.massgrave.dev/en-us_windows_11_iot_enterprise_ltsc_2024_x64_dvd_f6b14814.iso)
 
