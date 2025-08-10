@@ -15,6 +15,7 @@ Next > Next > ✅ I agree everything will be deleted including files, apps, and 
 
 ### Disk partitioning — Clean Install
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/70418288-5998-4ed4-a628-831e235399e0" />
+
 > Shift + F10:
 
 ```cmd
