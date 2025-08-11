@@ -145,7 +145,7 @@ Select <Office.img> > Mount > Open > Setup.exe > Open > Run > Run > Run > Yes > 
 
 > `Super Key` > "Windows Update settings" > Open > Restart now
 
-## ❌ Software Activation — $${\color{red}VIOLATING}$$ $${\color{red}MICROSOFT'S}$$ $${\color{red}TERMS}$$ $${\color{red}OF}$$ $${\color{red}AGREEMENT!!!}$$ ❌
+## ❌ Software Activation — $${\color{red}VIOLATING}$$ $${\color{red}MICROSOFT'S}$$ $${\color{red}TERMS}$$ $${\color{red}OF}$$ $${\color{red}AGREEMENT!!!}$$ 👮
 
 
 > `Super Key` > "Windows PowerShell" > Run as administrator > Yes
