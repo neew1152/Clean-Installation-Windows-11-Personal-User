@@ -134,6 +134,14 @@ exit
 
 ---
 
+## Windows Update — Phase II
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/be80f8e0-ee03-4842-b77a-1867b5db9796" />
+
+> `Super Key` > "Windows Update settings" > Open > Restart now
+> 
+---
+
 ## Microsoft Store && Microsoft Office
 ### Microsoft Store
 
@@ -154,14 +162,6 @@ exit
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/abdc6ebf-e45b-4db7-a342-7f9cbc530332" />
 
 > Select <Office.img> > Mount > Open > Setup.exe > Open > Run > Run > Run > Yes > Close
-
----
-
-## Windows Update — Phase II
-
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/be80f8e0-ee03-4842-b77a-1867b5db9796" />
-
-> `Super Key` > "Windows Update settings" > Open > Restart now
 
 ---
 
