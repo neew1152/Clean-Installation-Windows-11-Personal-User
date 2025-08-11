@@ -126,7 +126,7 @@ exit
 
 Select <Office.img> > Mount > Open > Setup.exe > Open > Run > Run > Run > Yes > Close
 
-## Language — Thailand 🇹🇭
+## 🌐 Language — Thailand 🇹🇭
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/451a939a-b362-4b96-8292-d6a7852c2aaa" />
 
 > `Super Key` > "Language settings" > Open > Thai > Language options > Language pack > Downloads
