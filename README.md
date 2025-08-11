@@ -139,7 +139,7 @@ exit
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/35e51f52-1c63-4aee-ad4c-570d2ee86c0b" />
 
-`Super Key` > "Command Prompt" > Run as administrator > Yes
+> `Super Key` > "Command Prompt" > Run as administrator > Yes
 
 ```cmd
 wsreset -i
@@ -153,7 +153,7 @@ exit
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/abdc6ebf-e45b-4db7-a342-7f9cbc530332" />
 
-Select <Office.img> > Mount > Open > Setup.exe > Open > Run > Run > Run > Yes > Close
+> Select <Office.img> > Mount > Open > Setup.exe > Open > Run > Run > Run > Yes > Close
 
 ---
 
