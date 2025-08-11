@@ -76,8 +76,8 @@ exit
 
 > Advanced options > Optional updates > ✅ > Download & install
 
-## 🔐 Enhanced Windows Security 🛡️
-### Microsoft Edge
+## 📈 Enhanced Windows Security 
+### 🌐 Microsoft Edge
 > `Super Key` > "Microsoft Edge" > Open > Start without your data > Confirm and continue > Confirm and continue > Continue without this data > Confirm and start browsing > "edge://settings"
 
 <img width="850" height="2400" alt="edge__settings_privacy" src="https://github.com/user-attachments/assets/ba5a664c-e53f-4ccb-8f12-c3dd4376c3f9" />
@@ -88,7 +88,7 @@ exit
 
 > System and performance
 
-### Microsoft Defender Antivirus
+### 🛡️ Microsoft Defender Antivirus
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/09cc74d6-4cee-45c7-b608-1c68553249e3" />
 
 > `Super Key` > "Windows Security" > Open > App & browser control > Reputation-based protection settings > ✅
@@ -97,7 +97,7 @@ exit
 
 > Device security > Core isolation details > ✅
 
-### Data Execution Prevention
+### 🔐 Data Execution Prevention
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3b762322-aca2-4e26-8177-f8a4101fbf76" />
 
 > `Super Key + R` > "SystemPropertiesAdvanced" > OK > Performance > Data Execution Prevention > Turn on DEP for all programs and services except those I select > OK > OK > OK
