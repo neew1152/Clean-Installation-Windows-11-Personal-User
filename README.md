@@ -63,6 +63,8 @@ exit
 - ข้อดี : ไมโครซอฟท์แก้ปัญหาของผู้ใช้ได้มากขึ้น
 - ข้อเสีย : อุปกรณ์ทำงานหนักขึ้น เพื่อเขียนรายงาน
 
+---
+
 ## Windows Update — Phase I
 
 - **Connect the internet**
@@ -76,6 +78,8 @@ exit
 
 > Advanced options > Optional updates > ✅ > Download & install
 
+---
+
 ## 📈 Enhanced Windows Security 
 ### 🌐 Microsoft Edge
 > `Super Key` > "Microsoft Edge" > Open > Start without your data > Confirm and continue > Confirm and continue > Continue without this data > Confirm and start browsing > "edge://settings"
@@ -88,6 +92,8 @@ exit
 
 > System and performance
 
+---
+
 ### 🛡️ Microsoft Defender Antivirus
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/09cc74d6-4cee-45c7-b608-1c68553249e3" />
 
@@ -97,15 +103,21 @@ exit
 
 > Device security > Core isolation details > ✅
 
+---
+
 ### 🔐 Data Execution Prevention
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3b762322-aca2-4e26-8177-f8a4101fbf76" />
 
 > `Super Key + R` > "SystemPropertiesAdvanced" > OK > Performance > Data Execution Prevention > Turn on DEP for all programs and services except those I select > OK > OK > OK
 
+---
+
 ### 🪪 User Access Control 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/887d5337-1646-496b-be32-abe0a27333bb" />
 
 > `Super Key` > "Control Panel" > Open > "Control Panel\User Accounts\User Accounts" > Change User Account Control settings > Always notify > OK > Yes
+
+---
 
 ## Microsoft Store && Microsoft Office
 ### Microsoft Store
@@ -119,12 +131,16 @@ wsreset -i
 exit
 ```
 
+---
+
 ### Microsoft Office
 [Office C2R Installers](https://gravesoft.dev/office_c2r_links)
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/abdc6ebf-e45b-4db7-a342-7f9cbc530332" />
 
 Select <Office.img> > Mount > Open > Setup.exe > Open > Run > Run > Run > Yes > Close
+
+---
 
 ## 🌐 Language — Thailand 🇹🇭
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/451a939a-b362-4b96-8292-d6a7852c2aaa" />
@@ -139,14 +155,17 @@ Select <Office.img> > Mount > Open > Setup.exe > Open > Run > Run > Run > Yes > 
 
 > `Super Key` > "Language settings" > Open > Windows displays language > ไทย > Sign out > Sign in
 
+---
+
 ## Windows Update — Phase II
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/be80f8e0-ee03-4842-b77a-1867b5db9796" />
 
 > `Super Key` > "Windows Update settings" > Open > Restart now
 
-## ❌ Software Activation — $${\color{red}VIOLATING}$$ $${\color{red}MICROSOFT'S}$$ $${\color{red}TERMS}$$ $${\color{red}OF}$$ $${\color{red}AGREEMENT!!!}$$ 👮
+---
 
+## ❌ Software Activation — $${\color{red}VIOLATING}$$ $${\color{red}MICROSOFT'S}$$ $${\color{red}TERMS}$$ $${\color{red}OF}$$ $${\color{red}AGREEMENT!!!}$$ 👮
 
 > `Super Key` > "Windows PowerShell" > Run as administrator > Yes
 
