@@ -122,7 +122,7 @@ exit
 ## 🌐 Language — Thailand 🇹🇭
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/451a939a-b362-4b96-8292-d6a7852c2aaa" />
 
-> `Super Key` > "Language settings" > Open > Thai > Language options > Language pack > Downloads
+> `Super Key` > "Language settings" > Open > Thai > Language options > Language pack > Download
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/505f7147-3051-479a-bfb0-e20465919852" />
 
