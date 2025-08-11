@@ -51,7 +51,7 @@ exit
 
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/9db4e559-9075-48ba-82a1-c0d2e57c9c6c" />
 
-> If you don’t want to send device information, uncheck everything: Next
+> If you don’t want to send device information, uncheck everything: Next > Accept
 
 > ถ้าไม่ต้องการส่งข้อมูลให้กับไมโครซอฟท์ ติ้กออกให้หมด : Next > Accept
 
