@@ -70,7 +70,7 @@ exit
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f7287405-4f27-4e7b-9fd0-44c0e84d3fa3" />
 
-> `Super Key` > "Settings" > Windows Update > Check for updates
+> `Super Key` > "Windows Update settings" > Open > Check for updates
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5bd1394d-71d7-4e63-835e-7a3e1f94e1f8" />
 
@@ -129,21 +129,21 @@ Select <Office.img> > Mount > Open > Setup.exe > Open > Run > Run > Run > Yes > 
 ## Language — Thailand
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/451a939a-b362-4b96-8292-d6a7852c2aaa" />
 
-> `Super Key` > "Language settings" > Thai > Language options > Language pack > Downloads
+> `Super Key` > "Language settings" > Open > Thai > Language options > Language pack > Downloads
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/505f7147-3051-479a-bfb0-e20465919852" />
 
-> `Super Key` > "Advanced keyboard settings" > English (United States) - US > Input language hot keys > Change Key Sequence... > Switch Input Language > Grave Accent (`) > OK > OK
+> `Super Key` > "Advanced keyboard settings" > Open > English (United States) - US > Input language hot keys > Change Key Sequence... > Switch Input Language > Grave Accent (`) > OK > OK
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c6bdf847-0717-489b-be35-6a58b2699a6b" />
 
-> `Super Key` > "Language settings" > Windows displays language > ไทย > Sign out > Sign in
+> `Super Key` > "Language settings" > Open > Windows displays language > ไทย > Sign out > Sign in
 
 ## Windows Update — Phase II
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/be80f8e0-ee03-4842-b77a-1867b5db9796" />
 
-> `Super Key` > "Settings" > Windows Update > Restart now
+> `Super Key` > "Windows Update settings" > Open > Restart now
 
 ## Software Activation — $${\color{red}VIOLATING}$$ $${\color{red}MICROSOFT'S}$$ $${\color{red}TERMS}$$ $${\color{red}OF}$$ $${\color{red}AGREEMENT!!!}$$
 
