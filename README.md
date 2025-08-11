@@ -123,7 +123,7 @@ exit
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2057b61a-cd11-497d-8398-37435df9d469" />
 
-> `Super Key` > Delivery Optimization Settings > Open > ❌
+> `Super Key` > "Delivery Optimization Settings" > Open > ❌
 
 ---
 
