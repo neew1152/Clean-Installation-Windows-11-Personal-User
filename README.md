@@ -3,7 +3,7 @@
 
 ---
 
-## 🪟 Windows 11 Setup — Thailand
+## 🪟 Windows 11 Setup — Thailand 🇹🇭
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/297c207f-b55a-4b9d-8501-c4079d021ea2" />
 
 > Thai (Thailand) > Next > US > Next > ✅ I agree everything will be deleted including files, apps, and settings > Next > I don't have a product key > Windows 11 IoT Enterprise LTSC > Next > Accept
@@ -33,7 +33,7 @@ exit
 
 ---
 
-## Out Of Box Experience — Thailand
+## Out Of Box Experience — Thailand 🇹🇭
 - **DO NOT CONNECT TO THE INTERNET, IF YOU DON’T WANT THE LONG WINDOWS UPDATE!!!**
 - **อย่าต่ออินเตอร์เน็ต ถ้าคุณไม่อยากอัปเดตนาน !**
 
@@ -45,7 +45,7 @@ exit
 
 > Next > (? set password if you want) Next
 
-**OS Directory Law — กฎไดเรกทอรีระบบ**
+**⚖️ OS Directory Law — กฎไดเรกทอรีระบบ**
 - Only use: 0-9, A-Z, a-z, Underscore (_), Hyphen (-), dot (.)
 - ใช่แค่ 0-9, A-Z, a-z, สัญประกาศ (_), ยัติภังค์ (-), มหัพภาค (.)
 
@@ -55,11 +55,11 @@ exit
 
 > ถ้าไม่ต้องการส่งข้อมูลให้กับไมโครซอฟท์ ติ้กออกให้หมด : Next > Accept
 
-**Submitting data to Microsoft**
+**🔎 Submitting data to Microsoft**
 - Pros: Microsoft can solve more user problems
 - Cons: Devices work harder to write reports
 
-**การส่งข้อมูลให้แก่ไมโครซอฟท์**
+**🔎 การส่งข้อมูลให้แก่ไมโครซอฟท์**
 - ข้อดี : ไมโครซอฟท์แก้ปัญหาของผู้ใช้ได้มากขึ้น
 - ข้อเสีย : อุปกรณ์ทำงานหนักขึ้น เพื่อเขียนรายงาน
 
@@ -76,7 +76,7 @@ exit
 
 > Advanced options > Optional updates > ✅ > Download & install
 
-## Enhanced Windows Security
+## 🔐 Enhanced Windows Security 🛡️
 ### Microsoft Edge
 > `Super Key` > "Microsoft Edge" > Open > Start without your data > Confirm and continue > Confirm and continue > Continue without this data > Confirm and start browsing > "edge://settings"
 
@@ -102,7 +102,7 @@ exit
 
 > `Super Key + R` > "SystemPropertiesAdvanced" > OK > Performance > Data Execution Prevention > Turn on DEP for all programs and services except those I select > OK > OK > OK
 
-### User Access Control
+### 🪪 User Access Control 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/887d5337-1646-496b-be32-abe0a27333bb" />
 
 > `Super Key` > "Control Panel" > Open > "Control Panel\User Accounts\User Accounts" > Change User Account Control settings > Always notify > OK > Yes
@@ -126,7 +126,7 @@ exit
 
 Select <Office.img> > Mount > Open > Setup.exe > Open > Run > Run > Run > Yes > Close
 
-## Language — Thailand
+## Language — Thailand 🇹🇭
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/451a939a-b362-4b96-8292-d6a7852c2aaa" />
 
 > `Super Key` > "Language settings" > Open > Thai > Language options > Language pack > Downloads
@@ -145,7 +145,7 @@ Select <Office.img> > Mount > Open > Setup.exe > Open > Run > Run > Run > Yes > 
 
 > `Super Key` > "Windows Update settings" > Open > Restart now
 
-## Software Activation — $${\color{red}VIOLATING}$$ $${\color{red}MICROSOFT'S}$$ $${\color{red}TERMS}$$ $${\color{red}OF}$$ $${\color{red}AGREEMENT!!!}$$
+## ❌ Software Activation — $${\color{red}VIOLATING}$$ $${\color{red}MICROSOFT'S}$$ $${\color{red}TERMS}$$ $${\color{red}OF}$$ $${\color{red}AGREEMENT!!!}$$ ❌
 
 
 > `Super Key` > "Windows PowerShell" > Run as administrator > Yes
