@@ -65,7 +65,7 @@ exit
 
 ---
 
-## Windows Update — Phase I
+## 🔁 Windows Update — Phase I
 
 - **Connect the internet**
 - **ต่ออินเตอร์เน็ต**
@@ -119,6 +119,14 @@ exit
 
 ---
 
+### ⬇️ Delivery Optimization
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2057b61a-cd11-497d-8398-37435df9d469" />
+
+> `Super Key` > Delivery Optimization Settings > Open > ❌
+
+---
+
 ## 🌐 Language — Thailand 🇹🇭
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/451a939a-b362-4b96-8292-d6a7852c2aaa" />
 
@@ -134,7 +142,7 @@ exit
 
 ---
 
-## Windows Update — Phase II
+## 🔁 Windows Update — Phase II
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/be80f8e0-ee03-4842-b77a-1867b5db9796" />
 
