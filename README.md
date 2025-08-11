@@ -119,6 +119,21 @@ exit
 
 ---
 
+## 🌐 Language — Thailand 🇹🇭
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/451a939a-b362-4b96-8292-d6a7852c2aaa" />
+
+> `Super Key` > "Language settings" > Open > Thai > Language options > Language pack > Downloads
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/505f7147-3051-479a-bfb0-e20465919852" />
+
+> `Super Key` > "Advanced keyboard settings" > Open > English (United States) - US > Input language hot keys > Change Key Sequence... > Switch Input Language > Grave Accent (`) > OK > OK
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c6bdf847-0717-489b-be35-6a58b2699a6b" />
+
+> `Super Key` > "Language settings" > Open > Windows displays language > ไทย > Sign out > Sign in
+
+---
+
 ## Microsoft Store && Microsoft Office
 ### Microsoft Store
 
@@ -139,21 +154,6 @@ exit
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/abdc6ebf-e45b-4db7-a342-7f9cbc530332" />
 
 Select <Office.img> > Mount > Open > Setup.exe > Open > Run > Run > Run > Yes > Close
-
----
-
-## 🌐 Language — Thailand 🇹🇭
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/451a939a-b362-4b96-8292-d6a7852c2aaa" />
-
-> `Super Key` > "Language settings" > Open > Thai > Language options > Language pack > Downloads
-
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/505f7147-3051-479a-bfb0-e20465919852" />
-
-> `Super Key` > "Advanced keyboard settings" > Open > English (United States) - US > Input language hot keys > Change Key Sequence... > Switch Input Language > Grave Accent (`) > OK > OK
-
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c6bdf847-0717-489b-be35-6a58b2699a6b" />
-
-> `Super Key` > "Language settings" > Open > Windows displays language > ไทย > Sign out > Sign in
 
 ---
 
