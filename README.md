@@ -56,8 +56,8 @@ exit
 > ถ้าไม่ต้องการส่งข้อมูลให้กับไมโครซอฟท์ ติ้กออกให้หมด : Next > Accept
 
 **🔎 Submitting data to Microsoft**
-- Pros: Microsoft can solve more user problems
-- Cons: Devices work harder to write reports
+- Pros: Microsoft can solve more user problems.
+- Cons: Devices work harder to write reports.
 
 **🔎 การส่งข้อมูลให้แก่ไมโครซอฟท์**
 - ข้อดี : ไมโครซอฟท์แก้ปัญหาของผู้ใช้ได้มากขึ้น
