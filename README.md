@@ -4,7 +4,7 @@
 ---
 
 ## Windows 11 Setup
-<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/46bd7272-6176-4e54-8826-00887db3d432" />
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/297c207f-b55a-4b9d-8501-c4079d021ea2" />
 
 > Thai (Thailand) > Next > US > Next > ✅ I agree everything will be deleted including files, apps, and settings > Next > I don't have a product key > Windows 11 IoT Enterprise LTSC > Next > Accept
 
