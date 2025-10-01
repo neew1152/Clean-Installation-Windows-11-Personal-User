@@ -1,5 +1,5 @@
 # 🧹 Clean Installation Windows 11 for Personal User 👤
-[Windows 11 IoT Enterprise LTSC 2024](https://drive.massgrave.dev/en-us_windows_11_iot_enterprise_ltsc_2024_x64_dvd_f6b14814.iso)
+[Windows 11 IoT Enterprise LTSC 2024](https://massgrave.dev/windows_ltsc_links)
 
 ---
 
